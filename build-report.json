@@ -1,0 +1,10 @@
+{
+  "name": "HTML Forms",
+  "version": "2026.11.17.1",
+  "pages": 22,
+  "search_entries": 77,
+  "source_files": 11,
+  "archive_bytes": 525679,
+  "sha256": "8956b879c2b74d77854b8666bfe56cf9e9586e0c4177642d61df7f7fbc0033a7",
+  "checks": "SQLite, paths, links, exact embedded source, safe tar: passed"
+}
