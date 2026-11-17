@@ -1,0 +1,18 @@
+{
+  "name": "HTML (Русский)",
+  "version": "2026.11.17.2",
+  "original_docset": "HTML revision 157",
+  "mdn_articles": 1233,
+  "html_reference_pages": 256,
+  "human_translated_intros": 233,
+  "machine_translation": true,
+  "translated_text_nodes": 130475,
+  "context_translated_blocks": 170670,
+  "preserved_code_blocks": 3582,
+  "search_entries": 3405,
+  "demo_source_files_verified": 11,
+  "archive_bytes": 86386385,
+  "sha256": "f65e347d644670712522e8cc4d99f5b8ca519d40eb19167d8fe2eb2ccb6bf952",
+  "collapsed_example": true,
+  "form_and_common_tags_verified": true
+}
