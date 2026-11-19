@@ -1,0 +1,28 @@
+/* Narrow offline documentation view for Dash and Zeal. Keep all article content. */
+.page-layout__banner, .page-layout__header, .page-layout__footer,
+.layout__left-sidebar, .layout__right-sidebar, mdn-toggle-sidebar,
+mdn-placement-sidebar, .article-footer {
+    display: none !important;
+}
+body.page-layout, .page-layout__main, .layout__2-sidebars-inline {
+    display: block !important;
+    min-width: 0 !important;
+    grid-template-columns: none !important;
+}
+.layout__content {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 16px !important;
+}
+.layout__content img, .layout__content video, .layout__content iframe {
+    max-width: 100%;
+}
+.layout__content pre, .layout__content .table-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+#server-example { margin: 16px 0; }

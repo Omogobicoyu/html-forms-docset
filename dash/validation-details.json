@@ -1,0 +1,29 @@
+{
+  "current_site_files_match": 17,
+  "sqlite_integrity": "ok",
+  "search_paths_and_anchors_verified": 3405,
+  "html_pages_checked": 2454,
+  "safe_archive_members": 16910,
+  "missing_assets": 3,
+  "remote_assets": 0,
+  "out_of_scope_or_missing_local_links": 0,
+  "missing_asset_examples": [
+    [
+      "developer.mozilla.org\\en-US\\docs\\Web\\API\\HTMLElement\\error_event\\_sample_.live_example49559678\\71dfae64f7354ba625646afbd50d0f0214344e26.mdnplay.dev\\en-US\\docs\\Web\\API\\HTMLElement\\error_event\\runner.html-_-uuid=71dfae64f7354ba625646afbd50d0f0214344e26&state=fVTfa9swEP5XDm%252BwlsVO2BgMxymMUUYhb3v1QxX74iiVpUxS2ngh%252F%252FvuJNtzSemTpLvv7r77pXOy861K8qSo5TNUSji3KpPKaG%252BNcmVyV2qAYnP03miQNelk.html",
+      "img",
+      "./bad-image.jpg"
+    ],
+    [
+      "developer.mozilla.org\\en-US\\docs\\Web\\HTML\\Reference\\Elements\\a\\_sample_.link_to_a_non-html_resource51287601\\a612f24f13cf339f6df0ff24c5f54c958406d5b3.mdnplay.dev\\en-US\\docs\\Web\\HTML\\Reference\\Elements\\a\\runner.html-_-uuid=a612f24f13cf339f6df0ff24c5f54c958406d5b3&state=zZLBSgMxEIZfZchJwd1YEYSy%252Bgr25mVBsts0mTabhGQ0B%252FHdnRjbg4L0InjKzPz%252FJB8%252FeROWFifWYogPowcYFNikd%252FcjzynmtZSllL7gAaPeoupDMnIU.html",
+      "img",
+      "./missing-icon.svg"
+    ],
+    [
+      "developer.mozilla.org\\en-US\\docs\\Web\\HTML\\Reference\\Elements\\a\\_sample_.link_to_a_non-html_resource51287601\\a612f24f13cf339f6df0ff24c5f54c958406d5b3.mdnplay.dev\\en-US\\docs\\Web\\HTML\\Reference\\Elements\\a\\runner.html-_-uuid=a612f24f13cf339f6df0ff24c5f54c958406d5b3&state=zZLBSgMxEIZfZchJwd1YEYSy%252Bgr25mVBsts0mTabhGQ0B%252FHdnRjbg4L0InjKzPz%252FJB8%252FeROWFifWYogPowcYFNikd%252FcjzynmtZSllL7gAaPeoupDMnIU.html",
+      "img",
+      "./missing-icon.svg"
+    ]
+  ],
+  "remote_asset_examples": [],
+  "missing_link_examples": []
+}

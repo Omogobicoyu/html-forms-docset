@@ -1,0 +1,7 @@
+* text=auto eol=lf
+builder/site/** -text
+*.tgz -text
+*.png binary
+*.jpg binary
+*.ttf binary
+*.zip binary

@@ -1,0 +1,24 @@
+{
+  "browser": "Microsoft Edge (headless)",
+  "native_dash_import_verified": false,
+  "external_network_blocked": true,
+  "blocked_external_requests": [],
+  "results": [
+    {
+      "viewport": 1100,
+      "form_collapsed": true,
+      "source_files": 12,
+      "phone_js_exact": true,
+      "source_not_executed": true,
+      "horizontal_overflow": false
+    },
+    {
+      "viewport": 400,
+      "form_collapsed": true,
+      "source_files": 12,
+      "phone_js_exact": true,
+      "source_not_executed": true,
+      "horizontal_overflow": false
+    }
+  ]
+}

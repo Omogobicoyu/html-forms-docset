@@ -1,0 +1,56 @@
+[
+  {
+    "file": "favicon-192x192.png",
+    "source": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/html/reference/elements/figure/favicon-192x192.png",
+    "sha256": "0b02cbcfdaa302ccec61756ac19b4365d903b8e7a4e35486e1f0960f7f29f2ab",
+    "bytes": 1036
+  },
+  {
+    "file": "favicon72.png",
+    "source": "https://mdn.github.io/shared-assets/images/examples/favicon72.png",
+    "sha256": "e0bf021e2f8deea8de2abefa7b4c8467ce831a8f1638a64198a0bdef4e55637e",
+    "bytes": 2061
+  },
+  {
+    "file": "1500.png",
+    "source": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/api/htmlimageelement/sizes/1500.png",
+    "sha256": "7238eff53ffa29d6f8dc5fb8ef8b454e5237077640c90fc2f65d1d7c64961607",
+    "bytes": 10120
+  },
+  {
+    "file": "600.png",
+    "source": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/api/htmlimageelement/sizes/600.png",
+    "sha256": "992812c5f8ecfec51b154d303092887d4faad529254bbeaf47e88193338bcd5d",
+    "bytes": 3997
+  },
+  {
+    "file": "900.png",
+    "source": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/api/htmlimageelement/sizes/900.png",
+    "sha256": "238d3634922f986d4601f83c18f3edf3aece6d220d293e44c91d412d1bd166c3",
+    "bytes": 5559
+  },
+  {
+    "file": "1200.png",
+    "source": "https://raw.githubusercontent.com/mdn/content/main/files/en-us/web/api/htmlimageelement/sizes/1200.png",
+    "sha256": "1720f754be3d7fbe2a0c037c44e8a857397c56cae24a9ef241972d67dc99edad",
+    "bytes": 7972
+  },
+  {
+    "file": "elva-480w-close-portrait.jpg",
+    "source": "https://raw.githubusercontent.com/mdn/learning-area/main/html/multimedia-and-embedding/responsive-images/elva-480w-close-portrait.jpg",
+    "sha256": "6d2ad1ef79c991275c1df820b8be2c37fb0ef4858e4c12d30910e3fff30ac111",
+    "bytes": 83444
+  },
+  {
+    "file": "elva-fairy-320w.jpg",
+    "source": "https://raw.githubusercontent.com/mdn/learning-area/main/html/multimedia-and-embedding/responsive-images/elva-fairy-320w.jpg",
+    "sha256": "69d07bbd936d0369a943a249c2676323b029d01a7e90240bb049ac8a18c6ab06",
+    "bytes": 39230
+  },
+  {
+    "file": "elva-fairy-480w.jpg",
+    "source": "https://raw.githubusercontent.com/mdn/learning-area/main/html/multimedia-and-embedding/responsive-images/elva-fairy-480w.jpg",
+    "sha256": "219862cf17f2be4b070b2e52f78f33cc3d3a8990f7a6994778f785c8b935e7b4",
+    "bytes": 63474
+  }
+]

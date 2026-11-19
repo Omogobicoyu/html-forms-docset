@@ -1,0 +1,25 @@
+{
+  "snapshot": "2026-11-19",
+  "current_site_files": {
+    "admin.php": "a82554ff086da8a357a0acf9d21a0ef9f5988bf168896d40ddc142fc9f60e637",
+    "assets/fonts/OFL.txt": "0f13c2ec3dcb2abf44bbc913526d47bd0dfc7d3e711b9bb79103716fcb89619b",
+    "assets/fonts/PTSans-Bold.ttf": "6233f84e139f226690649b3105c077b0f87ec24a23ca4a18ada298c962a06f4f",
+    "assets/fonts/PTSans-Italic.ttf": "72a98ad8f3c30a29c37aeddfa25baad0983ed9f39137a164262453944d8f05bb",
+    "assets/fonts/PTSans-Regular.ttf": "23b91352992c21de231c39dd77441f7c5c3f3e684f4a06e31b65c63d33427560",
+    "bootstrap.min.css": "3c8f27e6009ccfd710a905e6dcf12d0ee3c6f2ac7da05b0572d3e0d12e736fc8",
+    "create.php": "8f7fc7416a230e4b13b3e4c577fc872bdb0f851d838d993db767f50fe4ce471b",
+    "db.php": "35221f4f81e64123b36469ee7fe26c5b13e655dba1139183d5701613c64c5ac3",
+    "ER-diagram.svg": "6c3e3e29fc4fb87cda8bd3fb259d7b09ca03a5f97c8b6c14c6bcfdca034ae360",
+    "footer.php": "53ba98d8681bb6e74ac8432f8041f1a116505820f09672c11b66746a9f5664e4",
+    "header.php": "10b5b35da0cc318a372d9220dc1cc9b52cf152bd8f1966b7e7c4b91f44c0770b",
+    "index.php": "00cfdde858699c03da05cb7d50424fe0be3c3a5f11ceb10056869e8fbabf1ed5",
+    "logout.php": "58f2d1f2aa05cc540462b24e4cbd5e61f3ddb881dad97481abda781c2f2beb08",
+    "phone.js": "0b1f1b61217831cfd39939295a7caf0d789d7d176cb6e9b5ee03ef1b9752b643",
+    "register.php": "8d228d28194cdecedff180c6769e42cc09e93e146c803df6390d4098238e830e",
+    "requests.php": "ef8b732102065269039e72cae67e8694a03084450b7e89e5d81fdfb93ec74ab4",
+    "style.css": "dd745664ad9b2dee9587891a676f22c5536b08a3f895ec0890d4e375877d8e74"
+  },
+  "supplemental_files": {
+    "database.sql": "650aee29f53b96f01fe37bb441d1a6a0e958279f41351a1867bf7b00074761d6"
+  }
+}
